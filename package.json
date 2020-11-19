@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RTB-Neys/Perse/issues"
   },
-  "homepage": "https://github.com/RTB-Neys/Perse#readme"
+  "homepage": "https://github.com/RTB-Neys/Perse#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.1.0"
+  }
 }
