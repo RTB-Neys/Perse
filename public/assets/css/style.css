@@ -1,35 +1,3 @@
-* .navbar {
-    padding: 8px;
-    border-bottom: 3px solid transparent;
-  }
-  
-  .navbar-nav li {
-    padding-right: 20px
-  }
-  
-  .nav-link {
-    font-size: 1.2em !important;
-    color: white;
-  }
-  
-  .navbar a {
-    float: left;
-    padding: 10px;
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-    width: 25%; 
-    text-align: center; 
-  }
-
-  .purple-border textarea {
-    border: 1px solid #ba68c8;
-}
-.purple-border .form-control:focus {
-    border: 1px solid #ba68c8;
-    box-shadow: 0 0 0 0.2rem rgba(186, 104, 200, .25);
-}
-
 html, body {
   height: 100%;
   margin: 0;
